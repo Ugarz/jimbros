@@ -13,9 +13,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Jimbros!</a>
-        </h1>
+      <h1 className="text-3xl font-bold underline">Jimbros</h1>
 
         <p className={styles.description}>
           Get started by editing{' '}
